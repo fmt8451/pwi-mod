@@ -1,0 +1,10 @@
+Please note:
+
+The demo* files in this directory are the original ones that came with the PWI toolkit.
+
+The ones in the pwi.query directory are the live ones.
+
+The ones in pwi.query/BC are my "safety files" so I can revert if I screw one up.
+
+FYI.
+
